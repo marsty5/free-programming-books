@@ -302,6 +302,7 @@
 
 ###Django
 
+* [Effective Django](http://www.e-booksdirectory.com/details.php?ebook=8842) - Nathan Yergler
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 
@@ -607,23 +608,46 @@
 
 ###Python
 
-* [Byte of Python](http://www.swaroopch.com/notes/Python)
+* [A Byte of Python](http://www.swaroopch.com/notes/Python)
+* [An Introduction to Python](http://beastie.cs.ua.edu/cs150/book/) - John C. Lusth
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
+* [Design Patterns In Python](http://kennison.name/files/zopestore/uploads/python/DesignPatternsInPython_ver0.1.pdf) - Rahul Verma, Chetan Giridhar
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
+* [Introduction to Python for Econometrics, Statistics and Numerical Analysis](http://www.kevinsheppard.com/wiki/Python_for_Econometrics) - Kevin Sheppard
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
+* [Learning to Program with Python](http://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf) - Richard L. Halterman
+* [Making Games with Python and Pygame](http://inventwithpython.com/makinggames.pdf) - Al Sweigart
 * [Natural Language Processing with Python](http://www.nltk.org/book)
+* [Porting to Python 3: An in-depth guide](http://python3porting.com) - Lennart Regebro
+* [Practical Programming in Python](https://launchpad.net/practical-programming) - Jeffrey Elkner, at al.
+* [Programming Computer Vision with Python](http://www.e-booksdirectory.com/details.php?ebook=7470) - Jan Erik Solem
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
+* [Python course in Bioinformatics](http://www.lirmm.fr/~vberry/COURS/IC/Systemes/BioData/PythonBioinfo.pdf) - Katja Schuerer, Catherine Letondal
+* [Python for Education](http://www.e-booksdirectory.com/details.php?ebook=9203) - Ajith Kumar
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+* [Python Programming](http://en.wikibooks.org/wiki/Python_Programming) - Hannes Röst, et al.
+* [Python Scientific Lecture Notes](Python Scientific Lecture Notes) - EuroScipy tutorial team
+* [Python Scripting for Computational Science](http://www.e-booksdirectory.com/details.php?ebook=7967) - Hans Petter Langtangen
+* [Python Tutorial](http://docs.python.org/release/2.5.2/tut/tut.html) - Guido van Rossum
+* [Python Tutorial](http://www.tutorialspoint.com/python/python_tutorial.pdf) - Simply Easy Learning
+* [Python 201: (Slightly) Advanced Python Topics](http://www.rexx.com/~dkuhlman/python_201/python_201.html) - Dave Kuhlman
+* [Python 2.5 Quick Reference](http://rgruet.free.fr/PQR25/PQR2.5_printing_a4.pdf) - Richard Gruet
+* [PyQt4 Tutorial](http://zetcode.com/tutorials/pyqt4/) - Jan Bodnar
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754) - Harry Percival
+* [The Art and Craft of Programming, Python Edition](http://beastie.cs.ua.edu/cs150/book/index.html) - John C. Lusth
+* [The Programming Historian](http://www.e-booksdirectory.com/details.php?ebook=7690) - W.J. Turkel, A. Crymble, A. MacEachern
+* [The Python Game Book](http://thepythongamebook.com/en:start    ) - Horst Jens et al.
+* [The Python Imaging Library by Fredrik Lundh](http://www.pythonware.com/media/data/pil-handbook.pdf) - Matthew Ellis
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF) - Allen B. Downey
-
+* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey
 
 ###R
 
